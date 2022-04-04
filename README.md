@@ -2,10 +2,19 @@
 
 ## I am a student of BSTU
 
-### Languages and Tools
+### 👨‍💻 Languages and Tools
 ![C++](https://img.shields.io/badge/C++-282828?style=for-the-badge&logo=Cplusplus&logoColor=1451A4)
-![HTML](https://img.shields.io/badge/HTML-F93C0A?style=for-the-badge&logo=HTML&logoColor=1451A4)
-![SCSS](https://img.shields.io/badge/SCSS-069595?style=for-the-badge&logo=SCSS&logoColor=1451A4)
+![HTML](https://img.shields.io/badge/HTML-282828?style=for-the-badge&logo=HTML5&logoColor=F93C0A)
+![SCSS](https://img.shields.io/badge/SASS-282828?style=for-the-badge&logo=SASS&logoColor=069595)
+
+### 💻 Software and tools
+<p>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000001.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://ru.stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-8b00ff.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+ </p>
 
 ### Follow me
 [![VK](https://img.shields.io/badge/VK-282828?style=for-the-badge&logo=VK&logoColor=1451A4)](https://vk.com/freizn)
