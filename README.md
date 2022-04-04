@@ -21,3 +21,4 @@
 [![YOUTUBE](https://img.shields.io/badge/YOUTUBE-282828?style=for-the-badge&logo=YOUTUBE&logoColor=F90A0A)](https://www.youtube.com/channel/UC7yZsMiAH9JhxeealmEZGxQ)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FFrein&show_icons=true&theme=gruvbox)
+  <a href="https://github.com/FFrein"><img alt="FFrein's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FFrein&langs_count=8&layout=compact&theme=gruvbox" height="192px"/></a>
