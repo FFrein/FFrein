@@ -6,7 +6,7 @@
 ![C++](https://img.shields.io/badge/C++-282828?style=for-the-badge&logo=Cplusplus&logoColor=1451A4)
 ![HTML](https://img.shields.io/badge/HTML-282828?style=for-the-badge&logo=HTML5&logoColor=F93C0A)
 ![SCSS](https://img.shields.io/badge/SASS-282828?style=for-the-badge&logo=SASS&logoColor=069595)
-![JavaScript](https://img.shields.io/badge/SASS-282828?style=for-the-badge&logo=JS&logoColor=069595)
+![JavaScript](https://img.shields.io/badge/JS-282828?style=for-the-badge&logo=JS&logoColor=069595)
 
 ### 💻 Software and tools
 <p>
