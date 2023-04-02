@@ -4,7 +4,6 @@
 
 ### 👨‍💻 Languages and Tools
 ![C#](https://img.shields.io/badge/Csharp-282828?style=for-the-badge&logo=Csharp&logoColor=1451A4)
-![C++](https://img.shields.io/badge/C++-282828?style=for-the-badge&logo=Cplusplus&logoColor=1451A4)
 
 ### 💻 Software and tools
 <p>
