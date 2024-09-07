@@ -1,8 +1,6 @@
-# Pesetsky Nikita Andreevich
 
 ![Codewars Badge](https://www.codewars.com/users/Frein/badges/large)
-
-## I am a student of BSTU
+## Pesetsky Nikita Andreevich
 
 ### 👨‍💻 Languages and Tools
 ![C#](https://img.shields.io/badge/Csharp-282828?style=for-the-badge&logo=Csharp&logoColor=1451A4)
