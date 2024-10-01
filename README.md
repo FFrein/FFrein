@@ -3,8 +3,8 @@
 ## Pesetsky Nikita Andreevich
 
 ### 👨‍💻 Languages and Tools
-![C#](https://img.shields.io/badge/Csharp-282828?style=for-the-badge&logo=Csharp&logoColor=1451A4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=JavaScript&logoColor=FFD700)
+![C#](https://img.shields.io/badge/Csharp-282828?style=for-the-badge&logo=Csharp&logoColor=1451A4)
 
 ### 💻 Software and tools
 <p>
