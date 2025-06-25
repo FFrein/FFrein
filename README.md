@@ -4,7 +4,9 @@
 
 ### 👨‍💻 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=JavaScript&logoColor=FFD700)
-![C#](https://img.shields.io/badge/Csharp-282828?style=for-the-badge&logo=Csharp&logoColor=1451A4)
+![TypeScript](https://img.shields.io/badge/TypeScript-282828?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-282828?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-282828?style=for-the-badge&logo=Vite&logoColor=646CFF)
 
 ### 💻 Software and tools
 <p>
